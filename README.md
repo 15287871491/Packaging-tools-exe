@@ -9,11 +9,11 @@
     一键打包、极速安装、自定义效果
     <br />
     <br />
-    <a href="https://github.com/micahh28/HHSoftwarePack/blob/main/README.md">查看文档</a>
+    <a href="https://github.com/15287871491/Packaging-tools-exe/edit/main/README.md">查看文档</a>
     ·
-    <a href="https://github.com/micahh28/hhgiftcash/issues">报告Bug</a>
+    <a href="https://github.com/15287871491/hhgiftcash/issues">报告Bug</a>
     ·
-    <a href="https://github.com/micahh28/HHSoftwarePack/releases">立即下载</a>
+    <a href="https://github.com/15287871491/HHSoftwarePack/releases">立即下载</a>
   </p>
 
 </p>
@@ -63,7 +63,7 @@ HHSoftwarePack.exe
 
 ### 作者
 
-- [micahh28](https://github.com/micahh28) .Net开发的小学生
+- [micahh28](https://github.com/15287871491) .Net开发的小学生
 
 ### 鸣谢
 - CCTV
