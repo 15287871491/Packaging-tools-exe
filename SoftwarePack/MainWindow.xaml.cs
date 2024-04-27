@@ -426,7 +426,7 @@ namespace SoftwarePack
         private void lbl_Ver_MouseUp(object sender, MouseButtonEventArgs e)
         {
             //调用系统默认的浏览器 
-            Process.Start("explorer.exe", "https://github.com/micahh28");
+            Process.Start("explorer.exe", "https://github.com/15287871491");
         }
     }
 
