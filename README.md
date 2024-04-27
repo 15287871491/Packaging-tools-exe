@@ -13,7 +13,7 @@
     ·
     <a href="https://github.com/15287871491/hhgiftcash/issues">报告Bug</a>
     ·
-    <a href="https://github.com/15287871491/HHSoftwarePack/bin/Debug">立即下载</a>
+    <a href="https://github.com/15287871491/HHSoftwarePack/Debug">立即下载</a>
   </p>
 
 </p>
