@@ -9,7 +9,7 @@
     一键打包、极速安装、自定义效果
     <br />
     <br />
-    <a href="https://github.com/15287871491/Packaging-tools-exe/edit/main/README.md">查看文档</a>
+    <a href="[https://github.com/15287871491/Packaging-tools-exe/edit/main/README.md](https://github.com/15287871491/Packaging-tools-exe/edit/main/README.md)">查看文档</a>
     ·
     <a href="https://github.com/15287871491/hhgiftcash/issues">报告Bug</a>
     ·
@@ -59,11 +59,11 @@ HHSoftwarePack.exe
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/micahh28/HHSoftwarePack/blob/main/LICENSE)
+该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/15287871491/HHSoftwarePack/blob/main/LICENSE)
 
 ### 作者
 
-- [micahh28](https://github.com/15287871491) .Net开发的小学生
+- [15287871491](https://github.com/15287871491) .Net开发的小学生
 
 ### 鸣谢
 - CCTV
