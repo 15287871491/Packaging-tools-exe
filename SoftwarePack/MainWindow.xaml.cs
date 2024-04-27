@@ -355,7 +355,9 @@ namespace SoftwarePack
             }
 
             FileInfo exeInfo = new FileInfo(txtMainSoftPath.Text);
-            string mainEXEName = exeInfo.Name.Split('.')[0];
+            //string mainEXEName = exeInfo.Name.Split('.')[0];
+            string mainEXEName = exeInfo.Name.Substring(0, exeInfo.Name.LastIndexOf('.'));
+
             productInfoData = $"# ====================== 自定义宏 产品信息==============================" +
                               $"\r\n!define PRODUCT_NAME                \"{softName}\"" +
                               $"\r\n!define PRODUCT_PATHNAME            \"{mainEXEName}\"  #安装卸载项用到的KEY" +
@@ -365,7 +367,8 @@ namespace SoftwarePack
                               $"\r\n!define PRODUCT_VERSION             \"{softVersion}\"  #ProductVersion必须是X.X.X.X" +
                               $"\r\n!define PRODUCT_PUBLISHER           \"Micahh\"" +
                               $"\r\n!define PRODUCT_LEGAL               \"Micahh Copyright（c）2021\"" +
-                              $"\r\n!define INSTALL_OUTPUT_NAME         \"{softName}_Setup_{softVersion}.exe\"" +
+                              //$"\r\n!define INSTALL_OUTPUT_NAME         \"{softName}_Setup_{softVersion}.exe\"" +
+                              $"\r\n!define INSTALL_OUTPUT_NAME         \"{softName}_{softVersion}.exe\"" +
                               "\r\n# ====================== 自定义宏 安装信息==============================" +
                               "\r\n!define INSTALL_7Z_PATH             \"..\\app.7z\"" +
                               "\r\n!define INSTALL_7Z_NAME             \"app.7z\"" +
