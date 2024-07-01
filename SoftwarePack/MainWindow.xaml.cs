@@ -101,13 +101,13 @@ namespace SoftwarePack
             switch (img.Name)
             {
                 case "imgSoftIcon":
-                    //filterStr = "图标文件(*.ico)|*.ico";
-                    filterStr = "图标(*.ico)|*.ico|程序(*.exe)|*.exe|库(*.dll)|*.dll|所有文件(*.*)|*.*";
+                    filterStr = "图标文件(*.ico)|*.ico";
+                    //filterStr = "图标(*.ico)|*.ico|程序(*.exe)|*.exe|库(*.dll)|*.dll|所有文件(*.*)|*.*";
                     TargetPath = SkinPath.SoftIcon;
                     break;
                 case "imgSoftUninstIcon":
-                    //filterStr = "图标文件(*.ico)|*.ico";
-                    filterStr = "图标(*.ico)|*.ico|程序(*.exe)|*.exe|库(*.dll)|*.dll|所有文件(*.*)|*.*";
+                    filterStr = "图标文件(*.ico)|*.ico";
+                    //filterStr = "图标(*.ico)|*.ico|程序(*.exe)|*.exe|库(*.dll)|*.dll|所有文件(*.*)|*.*";
                     TargetPath = SkinPath.SoftUninstIcon;
                     break;
                 case "img_TopLogo":
